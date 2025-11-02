@@ -1,0 +1,5 @@
+{
+  "name": "project Astro",
+  "description": "An astrology application that provides both general Western horoscopes based on birth month and day, and personalized Vedic horoscopes based on exact birth details. It also includes a fun Tarot card reading feature.",
+  "requestFramePermissions": []
+}
